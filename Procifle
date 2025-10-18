@@ -1,0 +1,1 @@
+worker: python tg_alertbot_v2_safe_tp_fix.py
